@@ -3,8 +3,8 @@
 * [Twitter hashtag analysis with Python](https://github.com/Estrohacker/Data-Scientist-Portfolio/blob/main/My%20Projects/Twitter%20hashtag%20analysis%20with%20Python.ipynb): an analysis of hashtag #aquiestamoslasfeministas using t-hoarder, Gephi and Python. Project for the University of Granada.
 
  ### Guided Projects
-[Exploring Hacker News Posts]()
-[Exploring eBay Car Sales Data]()
-[Finding Heavy Traffic Indicators on I-94] ()
-[Prison Break (no libraries)]()
-[Profitable App Profiles for the App Store and Google Play Markets]()
+* [Exploring Hacker News Posts](https://github.com/Estrohacker/Data-Scientist-Portfolio/blob/main/Guided%20Projects/Exploring%20Hacker%20News%20Posts.ipynb)
+* [Exploring eBay Car Sales Data](https://github.com/Estrohacker/Data-Scientist-Portfolio/blob/main/Guided%20Projects/Exploring%20eBay%20Car%20Sales%20Data.ipynb)
+* [Finding Heavy Traffic Indicators on I-94](https://github.com/Estrohacker/Data-Scientist-Portfolio/blob/main/Guided%20Projects/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb)
+* [Prison Break (no libraries)](https://github.com/Estrohacker/Data-Scientist-Portfolio/blob/main/Guided%20Projects/Prison%20Break%20(no%20libraries).ipynb)
+* [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/Estrohacker/Data-Scientist-Portfolio/blob/main/Guided%20Projects/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb)
