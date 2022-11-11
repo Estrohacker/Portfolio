@@ -1,5 +1,3 @@
-[prueba](My Projects/Twitter hashtag analysis with Python)
-
 ### My Projects
 * [Análisis de hashtags de Twitter con Python](My%20Projects/An%C3%A1lisis%20de%20hashtags%20de%20Twitter%20con%20Python.ipynb): análisis del hashtag #aquiestamoslasfeministas usando t-hoarder, Gephi y Python. Proyecto para la Universidad de Granada.
 * [Twitter hashtag analysis with Python](My%20Projects/Transformar%20json%20a%20dataframe.ipynb)): an analysis of hashtag #aquiestamoslasfeministas using t-hoarder, Gephi and Python. Project for the University of Granada.
